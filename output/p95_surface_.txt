@@ -1,0 +1,16 @@
+Group A	Group B	Mean Differential	Lower	Upper	p-Adjusted
+Asphalt	Gravel	-1.918	-4.212	0.377	0.158
+Asphalt	Seedlings	-1.740	-4.035	0.555	0.249
+Asphalt	Grass	-1.044	-3.339	1.250	0.777
+Asphalt	Corn	1.220	-1.074	3.515	0.641
+Asphalt	Pasture	6.596	4.301	8.891	0.000
+Gravel	Seedlings	0.178	-2.117	2.472	1.000
+Gravel	Grass	0.873	-1.421	3.168	0.881
+Gravel	Corn	3.138	0.843	5.433	0.002
+Gravel	Pasture	8.514	6.219	10.808	0.000
+Seedlings	Grass	0.696	-1.599	2.991	0.952
+Seedlings	Corn	2.960	0.666	5.255	0.004
+Seedlings	Pasture	8.336	6.041	10.631	0.000
+Grass	Corn	2.265	-0.030	4.559	0.055
+Grass	Pasture	7.640	5.345	9.935	0.000
+Corn	Pasture	5.376	3.081	7.670	0.000
